@@ -1,0 +1,13 @@
+name: purge-music-card
+on:
+  schedule:
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
+jobs:
+  purge:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Purge camo cache
+        env:
+          CAMO_URL: ${{ secrets.CAMO_URL }}
+        run: curl -fsS -X PURGE "$CAMO_URL"

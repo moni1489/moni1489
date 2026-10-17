@@ -1,10 +1,10 @@
 <table>
   <tr>
     <td width="60%" valign="top">
-      <h3>Hi, I'm Monya 👋</h3>
+      <h3> hi im moni1489</h3>
       <ul>
-        <li>🌱 <a href="https://github.com/moni1489/soilink">SoiLink</a> — offline-first soil sensors + AI work calendar</li>
-        <li>🎵 <a href="https://github.com/moni1489/m0-visualiser">m0-visualiser</a> — audio visualiser in C++</li>
+        <li><a href="https://github.com/moni1489/soilink">SoiLink</a>-the main project</li>
+        <li> see  others soon</li>
       </ul>
     </td>
     <td width="40%" align="center" valign="top">

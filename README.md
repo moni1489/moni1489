@@ -2,7 +2,6 @@
   <tr>
     <td width="60%" valign="top">
       <h3>Hi, I'm Monya 👋</h3>
-      <p>Linux · C++ · Python · ESP32</p>
       <ul>
         <li>🌱 <a href="https://github.com/moni1489/soilink">SoiLink</a> — offline-first soil sensors + AI work calendar</li>
         <li>🎵 <a href="https://github.com/moni1489/m0-visualiser">m0-visualiser</a> — audio visualiser in C++</li>
